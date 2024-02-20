@@ -1,5 +1,5 @@
 # Origianl dataset
-.csv
+*.csv
 amazon.csv
 
 # Byte-compiled / optimized / DLL files
