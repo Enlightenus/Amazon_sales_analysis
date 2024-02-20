@@ -1,6 +1,7 @@
 # Origianl dataset
 *.csv
 amazon.csv
+processed_data.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
